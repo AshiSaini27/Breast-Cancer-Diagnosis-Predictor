@@ -58,6 +58,22 @@ python -m streamlit run app.py
 * SHAP Explainability
 * Model Comparison Dashboard
 
+## Screenshots
+
+### Streamlit App
+
+![App](screenshots/app.png)
+
+### Correlation Heatmap
+
+![Heatmap](screenshots/heatmap.png)
+
+### Feature Importance
+
+![Feature Importance](screenshots/feature_importance.png)
+
+
+
 ## Author
 
 Ashi Saini
