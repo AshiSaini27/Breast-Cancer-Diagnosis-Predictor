@@ -62,15 +62,15 @@ python -m streamlit run app.py
 
 ### Streamlit App
 
-![App](screenshots/app.png)
+![app](screenshots/app.png)
 
 ### Correlation Heatmap
 
-![Heatmap](screenshots/heatmap.png)
+![heatmap](screenshots/heatmap.png)
 
 ### Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![feature Importance](screenshots/feature_importance.png)
 
 
 
